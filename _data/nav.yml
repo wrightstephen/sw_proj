@@ -1,0 +1,20 @@
+nav_list_title: Navigation List
+links:
+
+- title: About
+  url: about.html
+
+- title: Research
+  url: blog.html
+
+- title: Publications
+  url: publications.html
+
+- title: Teaching
+  url: teaching.md
+
+- title: Talks and Links
+  url: /assets/pdf/vitae.pdf
+
+- title: Contact
+  url: contact.html
