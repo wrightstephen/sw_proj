@@ -1,20 +1,22 @@
 nav_list_title: Navigation List
 links:
+  - title: About
+    url: "#about"
 
-- title: About
-  url: about.html
+  - title: Positions
+    url: "#positions"
 
-- title: Research
-  url: blog.html
+  - title: Current Research
+    url: "#current-research"
 
-- title: Publications
-  url: publications.html
+  - title: Publications
+    url: "#publications"
 
-- title: Teaching
-  url: teaching.md
+  - title: Teaching
+    url: "#teaching"
 
-- title: Talks and Links
-  url: /assets/pdf/vitae.pdf
+  - title: Talks and Links
+    url: "#talks-links"
 
-- title: Contact
-  url: contact.html
+  - title: Contact
+    url: "#contact"
