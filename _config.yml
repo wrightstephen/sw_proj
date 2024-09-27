@@ -20,7 +20,7 @@ image_alt: UW-Madison Computer Science    # image description
 # -----------SITE SETTINGS---------------#
 #========================================#:
 author: Winston Chan
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg
+profile_image: /assets/cropped.png #/assets/img/avatar/avatar.jpeg
 occupation:
 snippet:
 twitter:

@@ -22,6 +22,24 @@ code {
     font: 0.85em Monaco, Courier, Monospace;
 }
 
+header .logo {
+    display: table;
+    height: 100%;
+    float: left;
+}
+
+header .logo div {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+header .logo img {
+    height: 100px; /* Increase the height to make the logo bigger */
+    margin-top: 5px; /* Optical alignment of the logo */
+}
+
+
 a.highlighted, a.highlighted:link {
   color: black;
   text-decoration: none;
@@ -483,14 +501,14 @@ border: 0px;
 border-radius: 0px;
 }
 
-.panel-profile-img
-{
-max-width: 250px;
-margin-top: -160px;
-margin-bottom: 5px;
-border: 3px solid #fff;
-border-radius: 0%;
+.panel-profile-img {
+  max-width: 250px;
+  margin-top: -110px; /* Adjusted to shift the image down by 50px */
+  margin-bottom: 5px;
+  border: 3px solid #fff;
+  border-radius: 0%;
 }
+
 
 .heading-footer
 {
@@ -503,14 +521,14 @@ border: 0px;
 border-radius: 0px;
 }
 
-.panel-profile-img
-{
-max-width: 250px;
-margin-top: -160px;
-margin-bottom: 5px;
-border: 3px solid #fff;
-border-radius: 0%;
+.panel-profile-img {
+  max-width: 250px;
+  margin-top: -110px; /* Adjusted to shift the image down by 50px */
+  margin-bottom: 5px;
+  border: 3px solid #fff;
+  border-radius: 0%;
 }
+
 
 
 .sidenav {
