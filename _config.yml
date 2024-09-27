@@ -8,11 +8,11 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Steven Wright
+title: Stephen Wright
 email: swright@cs.wisc.edu
 description: Welcome to my web-page!
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://pages.cs.wisc.edu/~swright/"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://winstonian03.github.io/sw_proj/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/icons/2x/wisconsin-crop.png              # used to generate site link preview
 image_alt: UW-Madison Computer Science    # image description
 
