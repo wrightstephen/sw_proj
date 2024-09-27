@@ -1,1 +1,10 @@
-talks and links placeholder
+- Some [talks on YouTube](https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy)
+- OLD [talks on Videolectures](https://videolectures.net/lecturer/10559/?sort=lectures_most_viewed).
+- [MW](http://www.cs.wisc.edu/condor/mw/) and the earlier metaNEOS project: Grid Computing and Optimization
+- [NEOS Server](http://www.neos-server.org/), and [NEOS Guide / Wiki](http://www.neos-guide.org/), now hosted at the Wisconsin Institutes for Discovery after many successful years at Argonne National Lab.
+- [Optimization Online](http://www.optimization-online.org/), the latest and greatest eprints on optimization (be sure to post your finest work!)
+- [Interior-Point Methods Online](http://www-unix.mcs.anl.gov/otc/InteriorPoint/), an older archive of interior-point papers and stuff
+- [Mathematical Optimization Society](http://www.mathopt.org/) and [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization/)
+- [GPSR](http://www.lx.it.pt/%7Emtf/GPSR/): Gradient Projection for Sparse Reconstruction and SpaRSA: Sparse Reconstruction by Separable Approximation. We also have a [GPU implementation of SpaRSA](http://www.cs.wisc.edu/%7Eswright/GPUreconstruction).
+- [TV Denoising Software](http://www.cs.wisc.edu/%7Eswright/TVdenoising/)
+- [Sampling methods for Stochastic Programming](http://www.cs.wisc.edu/%7Eswright/stochastic/sampling/)

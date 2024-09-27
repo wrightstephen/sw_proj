@@ -1,1 +1,12 @@
-positions placeholder
+- Chair, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison.
+- George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.
+- National Academy of Engineering, 2024.
+- Khachiyan Prize from INFORMS Optimization Society, 2020.
+- Hilldale Professor, UW-Madison.
+- George B. Dantzig Professor of [Computer Sciences](http://www.cs.wisc.edu/).
+- Sheldon B. Lubar Chair of [Computer Sciences](http://www.cs.wisc.edu/).
+- Amar and Balinder Sohi Professor of [Computer Sciences](http://www.cs.wisc.edu/).
+- Discovery Fellow in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) at UW-Madison.
+- Past Chair of the [Mathematical Optimization Society](http://www.mathopt.org/).
+- [SIAM Fellow](http://www.siam.org/prizes/fellows) and former member of the Board of Trustees of [SIAM](http://www.siam.org/) (2005-2014).
+- Site Director of the [Institute for Foundations of Data Science](http://ifds.info/).

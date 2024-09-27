@@ -28,13 +28,14 @@ layout: default
 <div id="positions" class="row mt-4">
   <div class="col-md-12">
     {% if site.animate %}
-    <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.position-font-color}};">
+    <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
     {% else %}
-    <div class="card-body" style="color:{{theme.position-font-color}};">
+    <div class="card-body" style="color:{{theme.research-font-color}};">
     {% endif %}
       <h2>Positions</h2>
-      <!-- Include the Markdown content for Positions -->
-      {% include positions.md %}
+      <!-- Include the Markdown content for Teaching -->
+      {% capture my_include %}{% include positions.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </div>
@@ -47,9 +48,10 @@ layout: default
     {% else %}
     <div class="card-body" style="color:{{theme.research-font-color}};">
     {% endif %}
-      <h2>Current Research</h2>
+      <h2>Research</h2>
       <!-- Include the Markdown content for Current Research -->
-      {% include current-research.md %}
+      {% capture my_include %}{% include current-research.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </div>
@@ -64,7 +66,8 @@ layout: default
     {% endif %}
       <h2>Publications</h2>
       <!-- Include the Markdown content for Publications -->
-      {% include publications.md %}
+      {% capture my_include %}{% include publications.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </div>
@@ -79,7 +82,8 @@ layout: default
     {% endif %}
       <h2>Teaching</h2>
       <!-- Include the Markdown content for Teaching -->
-      {% include teaching.md %}
+      {% capture my_include %}{% include teaching.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </div>
@@ -93,8 +97,10 @@ layout: default
     <div class="card-body" style="color:{{theme.research-font-color}};">
     {% endif %}
       <h2>Talks and Links</h2>
-      <!-- Include the Markdown content for Talks and Links -->
-      {% include talks-and-links.md %}
+      <!-- Capture the markdown content and apply markdownify to render the links -->
+      {% capture my_include %}{% include talks-and-links.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+
     </div>
   </div>
 </div>
@@ -109,7 +115,8 @@ layout: default
     {% endif %}
       <h2>Contact</h2>
       <!-- Include the Markdown content for Contact -->
-      {% include contact-info.md %}
+      {% capture my_include %}{% include contact-info.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </div>

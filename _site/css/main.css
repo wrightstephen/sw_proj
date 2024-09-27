@@ -76,6 +76,7 @@ a.highlighted:hover {
 html {
   scroll-behavior: smooth;
 }
+
 .timeline {
   margin: 4em auto;
   position: relative;

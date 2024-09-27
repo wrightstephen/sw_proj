@@ -8,7 +8,7 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: UW-Madison
+title: Steven Wright
 email: swright@cs.wisc.edu
 description: Welcome to my web-page!
 baseurl:                                       # the subpath of your site, e.g. /blog
