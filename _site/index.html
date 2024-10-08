@@ -208,10 +208,39 @@
     <div class="dumbarton-spacer-sm"></div>
     <div class="container">
       
+
+<!-- CSS for alternating solid background colors -->
+
+
+<!-- CSS for alternating solid background colors -->
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .container-fluid {
+    padding: 0;
+    width: 100%;
+  }
+
+  .bg-light {
+    background-color: #f9f9f9; /* Light background color */
+  }
+
+  .profile-picture {
+    margin-top: 32px; /* Adjust this value to control how much you want to lower the image */
+  }
+
+</style>
+
+ <!-- Initialize counter -->
+
 <!-- ABOUT ME SECTION -->
 <div id="about" class="card mx-auto border-0" style="position:relative;background-color:;">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 profile-picture"> <!-- Added profile-picture class here -->
       
         <img src="assets/cropped.png" class="img-thumbnail float-left" alt="...">
       
@@ -230,16 +259,17 @@
   </div>
 </div>
 
+
 <!-- Positions Section -->
-<div id="positions" class="row mt-4">
-  <div class="col-md-12">
-    
-    <div class="card-body" style="color:;">
-    
-      <h2>Positions</h2>
-      <!-- Include the Markdown content for Teaching -->
+<div id="positions" class="container-fluid p-5 bg-light">
+  <div class="row">
+    <div class="col-md-12">
       
-      <ul>
+      <div class="card-body" style="color:;">
+      
+        <h2>Positions</h2>
+        
+        <ul>
   <li>Chair, Department of <a href="http://www.cs.wisc.edu/">Computer Sciences</a> at UW-Madison.</li>
   <li>George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.</li>
   <li>National Academy of Engineering, 2024.</li>
@@ -254,9 +284,12 @@
   <li>Site Director of the <a href="http://ifds.info/">Institute for Foundations of Data Science</a>.</li>
 </ul>
 
+      </div>
     </div>
   </div>
 </div>
+
+
 
 <!-- Current Research Section -->
 <div id="current-research" class="row mt-4">
@@ -286,15 +319,15 @@
 </div>
 
 <!-- Publications Section -->
-<div id="publications" class="row mt-4">
-  <div class="col-md-12">
-    
-    <div class="card-body" style="color:;">
-    
-      <h2>Publications</h2>
-      <!-- Include the Markdown content for Publications -->
+<div id="publications" class="container-fluid p-5 bg-light">
+  <div class="row">
+    <div class="col-md-12">
       
+      <div class="card-body" style="color:;">
       
+        <h2>Publications</h2>
+        
+        
 <ul>
   <li><a href="https://scholar.google.com/citations?user=VFQRIOwAAAAJ&amp;hl=en">Google Scholar</a></li>
   <li><a href="https://www.cambridge.org/core/books/optimization-for-data-analysis/C02C3708905D236AA354D1CE1739A6A2">Optimization for Data Analysis</a>, with Ben Recht, published by Cambridge University Press in 2022. Here’s a list of <a href="https://github.com/wrightstephen/OptimizationForDataAnalysis/blob/main/optml_typos.pdf">typos</a>.</li>
@@ -303,9 +336,12 @@
   <li><a href="https://epubs.siam.org/doi/book/10.1137/1.9780898718775?">Linear Programming with MATLAB</a>, with Michael Ferris and Olvi Mangasarian, published by <a href="http://www.siam.org/">SIAM</a> in 2007. See also this page of <a href="http://www.cs.wisc.edu/math-prog/lpbook/">Matlab programs</a> discussed in the book.</li>
 </ul>
 
+      </div>
     </div>
   </div>
 </div>
+
+
 
 <!-- Teaching Section -->
 <div id="teaching" class="row mt-4">
@@ -332,15 +368,15 @@
 </div>
 
 <!-- Talks and Links Section -->
-<div id="talks-links" class="row mt-4">
-  <div class="col-md-12">
-    
-    <div class="card-body" style="color:;">
-    
-      <h2>Talks and Links</h2>
-      <!-- Capture the markdown content and apply markdownify to render the links -->
+<div id="talks-links" class="container-fluid p-5 bg-light">
+  <div class="row">
+    <div class="col-md-12">
       
-      <ul>
+      <div class="card-body" style="color:;">
+      
+        <h2>Talks and Links</h2>
+        
+        <ul>
   <li>Some <a href="https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy">talks on YouTube</a></li>
   <li>OLD <a href="https://videolectures.net/lecturer/10559/?sort=lectures_most_viewed">talks on Videolectures</a>.</li>
   <li><a href="http://www.cs.wisc.edu/condor/mw/">MW</a> and the earlier metaNEOS project: Grid Computing and Optimization</li>
@@ -353,10 +389,12 @@
   <li><a href="http://www.cs.wisc.edu/%7Eswright/stochastic/sampling/">Sampling methods for Stochastic Programming</a></li>
 </ul>
 
-
+      </div>
     </div>
   </div>
 </div>
+
+
 
 <!-- Contact Section -->
 <div id="contact" class="row mt-4">

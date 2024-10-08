@@ -2,10 +2,39 @@
 layout: default
 ---
 {% assign theme = site.data.themes[site.ui_theme] %}
+
+<!-- CSS for alternating solid background colors -->
+{% assign theme = site.data.themes[site.ui_theme] %}
+
+<!-- CSS for alternating solid background colors -->
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .container-fluid {
+    padding: 0;
+    width: 100%;
+  }
+
+  .bg-light {
+    background-color: #f9f9f9; /* Light background color */
+  }
+
+  .profile-picture {
+    margin-top: 32px; /* Adjust this value to control how much you want to lower the image */
+  }
+
+</style>
+
+{% assign section_index = 0 %} <!-- Initialize counter -->
+
 <!-- ABOUT ME SECTION -->
 <div id="about" class="card mx-auto border-0" style="position:relative;background-color:{{theme.home-background-color}};">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 profile-picture"> <!-- Added profile-picture class here -->
       {% if site.animate %}
         <img src="assets/cropped.png" class="img-thumbnail float-left animate__animated animate__fadeInLeft shadow bg-white rounded" alt="...">
       {% else %}
@@ -24,21 +53,25 @@ layout: default
   </div>
 </div>
 
+
 <!-- Positions Section -->
-<div id="positions" class="row mt-4">
-  <div class="col-md-12">
-    {% if site.animate %}
-    <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
-    {% else %}
-    <div class="card-body" style="color:{{theme.research-font-color}};">
-    {% endif %}
-      <h2>Positions</h2>
-      <!-- Include the Markdown content for Teaching -->
-      {% capture my_include %}{% include positions.md %}{% endcapture %}
-      {{ my_include | markdownify }}
+<div id="positions" class="container-fluid p-5 {% if section_index | modulo: 2 == 0 %}bg-light{% else %}bg-dark{% endif %}">
+  <div class="row">
+    <div class="col-md-12">
+      {% if site.animate %}
+      <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
+      {% else %}
+      <div class="card-body" style="color:{{theme.research-font-color}};">
+      {% endif %}
+        <h2>Positions</h2>
+        {% capture my_include %}{% include positions.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+      </div>
     </div>
   </div>
 </div>
+
+{% assign section_index = section_index | plus: 1 %}
 
 <!-- Current Research Section -->
 <div id="current-research" class="row mt-4">
@@ -57,20 +90,23 @@ layout: default
 </div>
 
 <!-- Publications Section -->
-<div id="publications" class="row mt-4">
-  <div class="col-md-12">
-    {% if site.animate %}
-    <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
-    {% else %}
-    <div class="card-body" style="color:{{theme.research-font-color}};">
-    {% endif %}
-      <h2>Publications</h2>
-      <!-- Include the Markdown content for Publications -->
-      {% capture my_include %}{% include publications.md %}{% endcapture %}
-      {{ my_include | markdownify }}
+<div id="publications" class="container-fluid p-5 {% if section_index | modulo: 2 == 0 %}bg-light{% else %}bg-dark{% endif %}">
+  <div class="row">
+    <div class="col-md-12">
+      {% if site.animate %}
+      <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
+      {% else %}
+      <div class="card-body" style="color:{{theme.research-font-color}};">
+      {% endif %}
+        <h2>Publications</h2>
+        {% capture my_include %}{% include publications.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+      </div>
     </div>
   </div>
 </div>
+
+{% assign section_index = section_index | plus: 1 %}
 
 <!-- Teaching Section -->
 <div id="teaching" class="row mt-4">
@@ -89,21 +125,23 @@ layout: default
 </div>
 
 <!-- Talks and Links Section -->
-<div id="talks-links" class="row mt-4">
-  <div class="col-md-12">
-    {% if site.animate %}
-    <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
-    {% else %}
-    <div class="card-body" style="color:{{theme.research-font-color}};">
-    {% endif %}
-      <h2>Talks and Links</h2>
-      <!-- Capture the markdown content and apply markdownify to render the links -->
-      {% capture my_include %}{% include talks-and-links.md %}{% endcapture %}
-      {{ my_include | markdownify }}
-
+<div id="talks-links" class="container-fluid p-5 {% if section_index | modulo: 2 == 0 %}bg-light{% else %}bg-dark{% endif %}">
+  <div class="row">
+    <div class="col-md-12">
+      {% if site.animate %}
+      <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
+      {% else %}
+      <div class="card-body" style="color:{{theme.research-font-color}};">
+      {% endif %}
+        <h2>Talks and Links</h2>
+        {% capture my_include %}{% include talks-and-links.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+      </div>
     </div>
   </div>
 </div>
+
+{% assign section_index = section_index | plus: 1 %}
 
 <!-- Contact Section -->
 <div id="contact" class="row mt-4">
