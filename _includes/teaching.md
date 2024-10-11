@@ -1,4 +1,4 @@
-#### Current:
+#### Current
 Not teaching currently
 
 #### Previously Taught
