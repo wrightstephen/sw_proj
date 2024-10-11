@@ -1,4 +1,4 @@
-- Chair, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison.
+- Head Honcho, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison.
 - George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.
 - National Academy of Engineering, 2024.
 - Khachiyan Prize from INFORMS Optimization Society, 2020.
