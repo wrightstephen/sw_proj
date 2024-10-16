@@ -63,7 +63,7 @@ layout: default
       {% else %}
       <div class="card-body" style="color:{{theme.research-font-color}};">
       {% endif %}
-        <h2>Positions and Awards</h2>
+        <h2>Positions</h2>
         {% capture my_include %}{% include positions.md %}{% endcapture %}
         {{ my_include | markdownify }}
       </div>
@@ -98,7 +98,7 @@ layout: default
       {% else %}
       <div class="card-body" style="color:{{theme.research-font-color}};">
       {% endif %}
-        <h2>Books</h2>
+        <h2>Publications</h2>
         {% capture my_include %}{% include publications.md %}{% endcapture %}
         {{ my_include | markdownify }}
       </div>
