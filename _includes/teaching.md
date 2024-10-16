@@ -1,5 +1,5 @@
 
-#### Previously Taught
+#### Previous
 - [CS726: Nonlinear Optimization I](http://www.cs.wisc.edu/~swright/cs726-f19.html) (UW, Fall 2019)
 - [CS525: Linear Programming](http://www.cs.wisc.edu/~swright/cs525-f15.html) (UW, Fall 2015)
 - [CS730: Nonlinear Optimization II](http://www.cs.wisc.edu/~swright/cs730-s20.html) (Spring 2020)
