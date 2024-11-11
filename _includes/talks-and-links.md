@@ -1,5 +1,5 @@
 - Some [talks on YouTube](https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy)
-- Old [talks on Videolectures](https://videolectures.net/lecturer/10559/?sort=lectures_most_viewed).
+- Old [talks on Videolectures](https://videolectures.net/search?query=Wright%20Stephen&tab=lectures).
 - [MW](http://www.cs.wisc.edu/condor/mw/) and the earlier metaNEOS project: Grid Computing and Optimization
 - [NEOS Server](http://www.neos-server.org/), and [NEOS Guide / Wiki](http://www.neos-guide.org/), now hosted at the Wisconsin Institutes for Discovery after many successful years at Argonne National Lab.
 - [Optimization Online](http://www.optimization-online.org/), the latest and greatest eprints on optimization (be sure to post your finest work!)
