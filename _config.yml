@@ -1,10 +1,4 @@
 # =======================================#
-# -----------DUMBARTON THEME-------------#
-# ----------------By: Tyler Butler-------#
-#-----------------https://tbutler.org----#
-#========================================#
-
-# =======================================#
 # -----------BASE SETTINGS---------------#
 #========================================#
 
@@ -12,7 +6,7 @@ title: Stephen Wright
 email: swright@cs.wisc.edu
 description: Welcome to my web-page!
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://winstonian03.github.io/sw_proj/"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wrightstephen.github.io/sw_proj/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/icons/2x/wisconsin-crop.png              # used to generate site link preview
 image_alt: UW-Madison Computer Science    # image description
 
@@ -24,7 +18,7 @@ profile_image: /assets/cropped.png #/assets/img/avatar/avatar.jpeg
 occupation:
 snippet:
 twitter:
-github:
+github: wrightstephen
 linkedin:
 stackoverflow:
 website:
