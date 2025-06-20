@@ -1,8 +1,9 @@
-- Past Chair, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison (2023-2025).
-- Hilldale Professor, UW-Madison, 2024-.
-- George B. Dantzig Professor of [Computer Sciences](http://www.cs.wisc.edu/), 2015-.
-- Sheldon B. Lubar Chair of [Computer Sciences](http://www.cs.wisc.edu/), 2016-.
-- Amar and Balinder Sohi Professor of [Computer Sciences](http://www.cs.wisc.edu/) 2015-2016.
+- Professor, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison (2023-2025).
+  - Past Chair, Department of Computer Sciences at UW-Madison (2023-2025).
+  - Hilldale Professor, UW-Madison, 2024-.
+  - George B. Dantzig Professor of Computer Sciences, 2015-.
+  - Sheldon B. Lubar Chair of Computer Sciences, 2016-2026.
+  - Amar and Balinder Sohi Professor of Computer Sciences, 2015-2016.
 - George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.
 - National Academy of Engineering, 2024.
 - Khachiyan Prize from INFORMS Optimization Society, 2020.
