@@ -1,4 +1,4 @@
-- Chair, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison.
+- Past Chair, Department of [Computer Sciences](http://www.cs.wisc.edu/) at UW-Madison (2023-2025).
 - George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.
 - National Academy of Engineering, 2024.
 - Khachiyan Prize from INFORMS Optimization Society, 2020.
