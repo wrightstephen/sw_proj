@@ -9,3 +9,26 @@ title: Sample Publications
 
 - Some [talks on YouTube](https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy)
 - Old [talks on Videolectures](https://videolectures.net/search?query=Wright%20Stephen&tab=lectures).
+
+Of course. Here is the list converted to Markdown, with publications italicized for clarity.
+
+***
+
+* **B.2** Wright, S. J., *Primal-Dual Interior-Point Methods*, xx+289 pp., SIAM, 1997.
+* **P.24** Wright, S. J., “A collection of problems for which Gaussian elimination with partial pivoting is unstable,” *SIAM Journal Scientific Computing* 14 (1993), pp. 231–238.
+* **P.25** Wright, S. J., “Identifiable surfaces in constrained optimization,” *SIAM Journal on Control and Optimization* 31 (1993), pp. 1063–1079.
+* **P.30** Monteiro, R. D. C. and Wright, S. J., “Local convergence of interior-point algorithms for degenerate monotone LCP,” *Computational Optimization and Applications* 3 (1994), pp. 131–155.
+* **P.34** Wright, S. J., “A path-following interior-point method for linear and quadratic problems,” *Annals of Operations Research* 62 (1996), pp. 103–130.
+* **P.39** Wright, S. J., “Superlinear convergence of a stabilized SQP method to a degenerate solution,” *Computational Optimization and Applications* 11 (1998), pp. 253–275.
+* **P.44** Wright, S. J., “Modified Cholesky factorizations in interior-point algorithms for linear programming,” *SIAM Journal on Optimization* 9 (1999), pp. 1159–1191.
+* **P.45** Czyzyk, J., Mehrotra, S., Wagner, M., and Wright, S. J., “PCx: An Interior-point code for linear programming,” *Optimization Methods and Software* 11&12 (1999), pp. 397–430.
+* **P.48** Wright, S. J., “On the convergence of the Newton/log-barrier method,” *Mathematical Programming* 90 (2001), pp. 71–100.
+* **P.55** Wright, S. J., “Modifying SQP for degenerate problems,” *SIAM Journal on Optimization* 13 (2002), pp. 470–497.
+* **P.56** Linderoth, J. and Wright, S. J., “Decomposition algorithms for stochastic programming on a computational grid,” *Computational Optimization and Applications* 24 (2003), pp. 207–250. (Awarded Best Paper for the journal in 2003.)
+* **P.57** Gertz, E. M. and Wright, S. J., “Object-oriented software for quadratic programming,” *ACM Transactions on Mathematical Software* 29 (2003), pp. 58–81.
+* **P.67** Turlach, B. A., Venables, W. N., and Wright, S. J., “Simultaneous variable selection,” *Technometrics* 27 (2005), pp. 349–363.
+* **P.71** Oberlin, C. and Wright, S. J., “Active set identification in nonlinear programming,” *SIAM Journal on Optimization* 17 (2006), pp. 577–605.
+* **P.83** Wright, S. J., Nowak, R. D., and Figueiredo, M. A. T., “Sparse reconstruction by separable approximation.” *IEEE Transactions on Signal Processing* 57 (2009), pp. 2479–2493. Awarded IEEE Signal Processing Society Award, 2011 and IEEE W. R. G. Baker Paper Award, 2014.
+* **P.104** Wright, S. J., “Coordinate descent algorithms,” *Mathematical Programming, Series B* 151 (2015), pp. 3–34.
+* **P.116** Royer, C., O’Neill, M., and Wright, S. J.,”A Newton-CG algorithm with complexity guarantees for smooth unconstrained optimization,” *Mathematical Programming, Series A* 180 (2020), pp. 451–488.
+
