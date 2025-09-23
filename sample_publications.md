@@ -30,4 +30,6 @@ title: Sample Publications
 * **P.83** Wright, S. J., Nowak, R. D., and Figueiredo, M. A. T., “Sparse reconstruction by separable approximation.” *IEEE Transactions on Signal Processing* 57 (2009), pp. 2479–2493. Awarded IEEE Signal Processing Society Award, 2011 and IEEE W. R. G. Baker Paper Award, 2014. [link](./wright_20publications/P.83.pdf)
 * **P.104** Wright, S. J., “Coordinate descent algorithms,” *Mathematical Programming, Series B* 151 (2015), pp. 3–34. [link](./wright_20publications/P.104.pdf)
 * **P.116** Royer, C., O’Neill, M., and Wright, S. J.,”A Newton-CG algorithm with complexity guarantees for smooth unconstrained optimization,” *Mathematical Programming, Series A* 180 (2020), pp. 451–488. [link](./wright_20publications/P.116.pdf)
-
+* **P.124** Wright, S. J. and Lee, C.-p., “Analyzing random permutations for cyclic coordinate descent,” *Mathematics of Computation* 89 (2020), pp. 2217–2248. [link](./wright_20publications/P.124.pdf) 
+* **C.3** Wright, S. J., “Applying new optimization algorithms to model predictive control,” in *Chemical Process Control-V*, AIChE Symposium Series No. 316, Volume 93, CACHE Publications, 1997, pp. 147–155. [link](./wright_20publications/C.3.pdf)
+* **C.41** Niu, F., Recht, B., Ré, C., and Wright, S. J., “HOGWILD!: A Lock-free approach to parallelizing stochastic gradient descent,” *Advances in Neural Information Processing Systems (NIPS)* 24, pp. 693–701, December 2011. *Awarded NeurIPS Test of Time Award, 2020.* [link](./wright_20publications/C.41.pdf)
