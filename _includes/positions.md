@@ -6,6 +6,7 @@
   - Amar and Balinder Sohi Professor of Computer Sciences, 2015-2016.
 - George B. Dantzig Prize from the Mathematical Optimization Society and SIAM, 2024.
 - National Academy of Engineering, 2024.
+- ICM Plenary Lecture, 2026.
 - Khachiyan Prize from INFORMS Optimization Society, 2020.
 - W. R. G. Baker Award, IEEE, 2014.
 - NeurIPS Test of Time Award, 2020.
