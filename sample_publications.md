@@ -10,11 +10,10 @@ title: Sample Publications
 - Some [talks on YouTube](https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy)
 - Old [talks on Videolectures](https://videolectures.net/search?query=Wright%20Stephen&tab=lectures).
 
-Of course. Here is the list converted to Markdown, with publications italicized for clarity.
 
 ***
 
-* **B.2** Wright, S. J., *Primal-Dual Interior-Point Methods*, xx+289 pp., SIAM, 1997.
+* **B.2** Wright, S. J., *Primal-Dual Interior-Point Methods*, xx+289 pp., SIAM, 1997. [link](./wright_20publications/B.2.pdf)
 * **P.24** Wright, S. J., “A collection of problems for which Gaussian elimination with partial pivoting is unstable,” *SIAM Journal Scientific Computing* 14 (1993), pp. 231–238.
 * **P.25** Wright, S. J., “Identifiable surfaces in constrained optimization,” *SIAM Journal on Control and Optimization* 31 (1993), pp. 1063–1079.
 * **P.30** Monteiro, R. D. C. and Wright, S. J., “Local convergence of interior-point algorithms for degenerate monotone LCP,” *Computational Optimization and Applications* 3 (1994), pp. 131–155.
