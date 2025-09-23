@@ -7,10 +7,6 @@ title: Sample Publications
 
 ### My [Google Scholar](https://scholar.google.com/citations?user=VFQRIOwAAAAJ) page
 
-- Some [talks on YouTube](https://www.youtube.com/playlist?list=PL5oPwlS-sZr8GGQTiwBjc9crNbRO9hnyy)
-- Old [talks on Videolectures](https://videolectures.net/search?query=Wright%20Stephen&tab=lectures).
-
-
 ***
 
 * **B.2** Wright, S. J., *Primal-Dual Interior-Point Methods*, xx+289 pp., SIAM, 1997. [link](./wright_20publications/B.2.pdf)
