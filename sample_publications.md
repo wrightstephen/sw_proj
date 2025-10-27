@@ -9,6 +9,7 @@ title: Sample Publications
 
 ***
 
+* **B.4** Nocedal, J. and Wright, S. J., *Numerical Optimization* (Second ed.), xx+664 pages, Springer, 2006.
 * **B.2** Wright, S. J., *Primal-Dual Interior-Point Methods*, xx+289 pp., SIAM, 1997. [link](./wright_20publications/B.2.pdf)
 * **P.24** Wright, S. J., “A collection of problems for which Gaussian elimination with partial pivoting is unstable,” *SIAM Journal Scientific Computing* 14 (1993), pp. 231–238. [link](./wright_20publications/P.24.pdf)
 * **P.25** Wright, S. J., “Identifiable surfaces in constrained optimization,” *SIAM Journal on Control and Optimization* 31 (1993), pp. 1063–1079. [link](./wright_20publications/P.25.pdf)
