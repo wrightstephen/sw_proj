@@ -15,3 +15,9 @@
 - [SIAM Fellow](http://www.siam.org/prizes/fellows), 2011-.
 - Former member of the Board of Trustees of [SIAM](http://www.siam.org/), 2005-2014.
 - Site Director of the [Institute for Foundations of Data Science](http://ifds.info/).
+
+## Office:
+
+6508 Morgridge Hall (1205 W University Avenue, Madison, WI 53706)
+
+**Office Hours:** Tuesday 3-4, Thursday 3-4.
