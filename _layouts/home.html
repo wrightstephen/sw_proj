@@ -71,6 +71,24 @@ layout: default
   </div>
 </div>
 
+  <!-- Office Section -->
+<div id="where" class="container-fluid p-5 {% if section_index | modulo: 2 == 0 %}bg-light{% else %}bg-dark{% endif %}">
+  <div class="row">
+    <div class="col-md-12">
+      {% if site.animate %}
+      <div class="card-body animate__animated animate__fadeInUp" style="color:{{theme.research-font-color}};">
+      {% else %}
+      <div class="card-body" style="color:{{theme.research-font-color}};">
+      {% endif %}
+        <h2>Office</h2>
+        {% capture my_include %}{% include office.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+
+  
 {% assign section_index = section_index | plus: 1 %}
 
 <!-- Current Research Section -->
