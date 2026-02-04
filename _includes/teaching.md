@@ -1,6 +1,9 @@
 
+#### Current
+- [CS730: Nonlinear Optimization II] (Spring 2026)
+
 #### Previous
 - [CS726: Nonlinear Optimization I](http://www.cs.wisc.edu/~swright/cs726-f19.html) (UW, Fall 2019)
 - [CS525: Linear Programming](http://www.cs.wisc.edu/~swright/cs525-f15.html) (UW, Fall 2015)
 - [CS730: Nonlinear Optimization II](http://www.cs.wisc.edu/~swright/cs730-s20.html) (Spring 2020)
-- [CS524: Introduction to Optimization](http://www.cs.wisc.edu/~swright/cs524-f18.html) (Fall 2018)
+- [CS524: Introduction to Optimization](http://www.cs.wisc.edu/~swright/cs524-f18.html) (Fall 2018, Spring 2023)
