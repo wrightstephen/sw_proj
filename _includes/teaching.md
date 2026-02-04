@@ -1,6 +1,6 @@
 
 #### Current
-- [CS730: Nonlinear Optimization II] (Spring 2026)
+- CS730: Nonlinear Optimization II (Spring 2026)
 
 #### Previous
 - [CS726: Nonlinear Optimization I](http://www.cs.wisc.edu/~swright/cs726-f19.html) (UW, Fall 2019)
